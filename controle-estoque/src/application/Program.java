@@ -26,7 +26,6 @@ public class Program {
 		int addquantity = sc.nextInt();
 		dados.AddProducts(addquantity);
 	
-		
 		System.out.println ();
 		System.out.println("Product data: " + dados);
 		
@@ -37,12 +36,7 @@ public class Program {
 		
 		System.out.println ();
 		System.out.println("Product data: " + dados);
-		
-		
-		
-
-		
-		
+			
 		sc.close();
 	}
 
